@@ -30,7 +30,7 @@ Como executar
 3. Abra o arquivo index.html no navegador
 
 Ou, se preferir, acesse a versão online publicada no GitHub Pages:
-https://bellamikoski.github.io/jogo-amigo-secreto/
+[https://bellamikoski.github.io/jogo-amigo-secreto/](https://bellamikoski.github.io/Amigo-Secreto/)
 
 Organização dos arquivos
 
